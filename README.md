@@ -1,7 +1,5 @@
 
-# CS563 Intro to Web Developement Final Project
-
-This is the final project for the Intro to Web Development course. The website is developed by Nachiket More, a student at the Portland State University.
+# Personal portfolio
 
 ## Technologies Used
 
@@ -25,13 +23,13 @@ The website is a single-page application that includes the following features:
 Clone the project
 
 ```bash
-  git clone https://github.com/nachiket-more/webdev-final-project.git
+  git clone https://github.com/nachiket-more/portfolio
 ```
 
 Go to the project directory
 
 ```bash
-  cd webdev-final-project
+  cd portfolio
 ```
 
 
@@ -40,7 +38,7 @@ Start the Live server
 ```bash
   open the index.html
 ```
-Alternatively, you can view the live version of the website [here](https://nachiket-more.github.io/webdev-final-project/)
+Alternatively, you can view the live version of the website [here](https://nachiket-more.github.io/portfolio/)
 
 
 
